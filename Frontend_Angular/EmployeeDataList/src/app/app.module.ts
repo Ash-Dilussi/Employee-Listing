@@ -6,6 +6,7 @@ import { MatIconModule } from '@angular/material/icon';
 import { MatButtonModule } from '@angular/material/button';
 import {MatFormFieldModule} from '@angular/material/form-field';
 import { MatInputModule } from '@angular/material/input';
+import { MatRadioModule } from '@angular/material/radio';
 import { SweetAlert2Module } from '@sweetalert2/ngx-sweetalert2';
 
 
@@ -48,6 +49,7 @@ import { AuthInterceptor } from './environment/environment.interceptor';
    MatTableModule,
    MatFormFieldModule,
    MatInputModule,
+   MatRadioModule,
    SweetAlert2Module,
 
    

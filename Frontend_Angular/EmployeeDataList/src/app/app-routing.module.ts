@@ -18,8 +18,8 @@ const routes: Routes = [
   {path: '', component: AllpageComponent,
     children:[
       
-      {path: 'pages/emp-add/emp-add.component', component: EmpAddComponent},
-      {path: 'pages/emp-view/emp-view.component', component: EmpViewComponent},
+      {path: 'pages/emp-add/emp-add.component', title:'Add-Employee', component: EmpAddComponent},
+      {path: 'pages/emp-view/emp-view.component', title:'View-List', component: EmpViewComponent},
       {path: 'pages/emp-nicadd/emp-nicadd.component', component:EmpNICaddComponent},
       {path: 'pages/emp-update/emp-update.component', component: EmpUpdateComponent}
     ]

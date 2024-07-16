@@ -3122,11 +3122,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\AshanIntern\\EmployeeListing\\EmployeeListing.Service\\EmployeeListing.Service.csproj",
+      "projectUniqueName": "C:\\Employee Listing\\Backend_.NET Core\\EmployeeListing\\EmployeeListing.Service\\EmployeeListing.Service.csproj",
       "projectName": "EmployeeListing.Service",
-      "projectPath": "C:\\AshanIntern\\EmployeeListing\\EmployeeListing.Service\\EmployeeListing.Service.csproj",
+      "projectPath": "C:\\Employee Listing\\Backend_.NET Core\\EmployeeListing\\EmployeeListing.Service\\EmployeeListing.Service.csproj",
       "packagesPath": "C:\\Users\\ashan.f\\.nuget\\packages\\",
-      "outputPath": "C:\\AshanIntern\\EmployeeListing\\EmployeeListing.Service\\obj\\",
+      "outputPath": "C:\\Employee Listing\\Backend_.NET Core\\EmployeeListing\\EmployeeListing.Service\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -3148,11 +3148,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\AshanIntern\\EmployeeListing\\EmployeeListing.DataAccess\\EmployeeListing.DataAccess.csproj": {
-              "projectPath": "C:\\AshanIntern\\EmployeeListing\\EmployeeListing.DataAccess\\EmployeeListing.DataAccess.csproj"
+            "C:\\Employee Listing\\Backend_.NET Core\\EmployeeListing\\EmployeeListing.DataAccess\\EmployeeListing.DataAccess.csproj": {
+              "projectPath": "C:\\Employee Listing\\Backend_.NET Core\\EmployeeListing\\EmployeeListing.DataAccess\\EmployeeListing.DataAccess.csproj"
             },
-            "C:\\AshanIntern\\EmployeeListing\\EmployeeListing.Model\\EmployeeListing.Model.csproj": {
-              "projectPath": "C:\\AshanIntern\\EmployeeListing\\EmployeeListing.Model\\EmployeeListing.Model.csproj"
+            "C:\\Employee Listing\\Backend_.NET Core\\EmployeeListing\\EmployeeListing.Model\\EmployeeListing.Model.csproj": {
+              "projectPath": "C:\\Employee Listing\\Backend_.NET Core\\EmployeeListing\\EmployeeListing.Model\\EmployeeListing.Model.csproj"
             }
           }
         }

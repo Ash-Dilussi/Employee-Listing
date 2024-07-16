@@ -1,25 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\AshanIntern\\EmployeeListing\\",
+  "WorkspaceRootPath": "C:\\Employee Listing\\Backend_.NET Core\\EmployeeListing\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FE005785-8D6C-46BB-BB71-71363CBC6BD2}|EmployeeListing\\EmployeeListing.csproj|c:\\ashanintern\\employeelisting\\employeelisting\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FE005785-8D6C-46BB-BB71-71363CBC6BD2}|EmployeeListing\\EmployeeListing.csproj|c:\\employee listing\\backend_.net core\\employeelisting\\employeelisting\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FE005785-8D6C-46BB-BB71-71363CBC6BD2}|EmployeeListing\\EmployeeListing.csproj|solutionrelative:employeelisting\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FE005785-8D6C-46BB-BB71-71363CBC6BD2}|EmployeeListing\\EmployeeListing.csproj|c:\\ashanintern\\employeelisting\\employeelisting\\controllers\\authusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FE005785-8D6C-46BB-BB71-71363CBC6BD2}|EmployeeListing\\EmployeeListing.csproj|c:\\employee listing\\backend_.net core\\employeelisting\\employeelisting\\controllers\\authusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FE005785-8D6C-46BB-BB71-71363CBC6BD2}|EmployeeListing\\EmployeeListing.csproj|solutionrelative:employeelisting\\controllers\\authusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F59343FE-AD2E-4B42-90D4-612A6EDAB4F9}|EmployeeListing.Service\\EmployeeListing.Service.csproj|c:\\ashanintern\\employeelisting\\employeelisting.service\\repository\\empservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F59343FE-AD2E-4B42-90D4-612A6EDAB4F9}|EmployeeListing.Service\\EmployeeListing.Service.csproj|c:\\employee listing\\backend_.net core\\employeelisting\\employeelisting.service\\repository\\empservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F59343FE-AD2E-4B42-90D4-612A6EDAB4F9}|EmployeeListing.Service\\EmployeeListing.Service.csproj|solutionrelative:employeelisting.service\\repository\\empservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F59343FE-AD2E-4B42-90D4-612A6EDAB4F9}|EmployeeListing.Service\\EmployeeListing.Service.csproj|c:\\ashanintern\\employeelisting\\employeelisting.service\\repository\\authuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F59343FE-AD2E-4B42-90D4-612A6EDAB4F9}|EmployeeListing.Service\\EmployeeListing.Service.csproj|c:\\employee listing\\backend_.net core\\employeelisting\\employeelisting.service\\repository\\authuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F59343FE-AD2E-4B42-90D4-612A6EDAB4F9}|EmployeeListing.Service\\EmployeeListing.Service.csproj|solutionrelative:employeelisting.service\\repository\\authuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FE005785-8D6C-46BB-BB71-71363CBC6BD2}|EmployeeListing\\EmployeeListing.csproj|c:\\ashanintern\\employeelisting\\employeelisting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FE005785-8D6C-46BB-BB71-71363CBC6BD2}|EmployeeListing\\EmployeeListing.csproj|c:\\employee listing\\backend_.net core\\employeelisting\\employeelisting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FE005785-8D6C-46BB-BB71-71363CBC6BD2}|EmployeeListing\\EmployeeListing.csproj|solutionrelative:employeelisting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -36,11 +36,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "EmployeeController.cs",
-              "DocumentMoniker": "C:\\AshanIntern\\EmployeeListing\\EmployeeListing\\Controllers\\EmployeeController.cs",
+              "DocumentMoniker": "C:\\Employee Listing\\Backend_.NET Core\\EmployeeListing\\EmployeeListing\\Controllers\\EmployeeController.cs",
               "RelativeDocumentMoniker": "EmployeeListing\\Controllers\\EmployeeController.cs",
-              "ToolTip": "C:\\AshanIntern\\EmployeeListing\\EmployeeListing\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Employee Listing\\Backend_.NET Core\\EmployeeListing\\EmployeeListing\\Controllers\\EmployeeController.cs",
               "RelativeToolTip": "EmployeeListing\\Controllers\\EmployeeController.cs",
-              "ViewState": "AQIAAMkAAAAAAAAAAAAAANEAAAAlAAAA",
+              "ViewState": "AQIAAMkAAAAAAAAAAAAqwNEAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-11T05:08:29.862Z",
               "IsPinned": true,
@@ -50,53 +50,49 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\AshanIntern\\EmployeeListing\\EmployeeListing\\Program.cs",
+              "DocumentMoniker": "C:\\Employee Listing\\Backend_.NET Core\\EmployeeListing\\EmployeeListing\\Program.cs",
               "RelativeDocumentMoniker": "EmployeeListing\\Program.cs",
-              "ToolTip": "C:\\AshanIntern\\EmployeeListing\\EmployeeListing\\Program.cs",
+              "ToolTip": "C:\\Employee Listing\\Backend_.NET Core\\EmployeeListing\\EmployeeListing\\Program.cs",
               "RelativeToolTip": "EmployeeListing\\Program.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAAE8AAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-15T08:38:28.561Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-15T08:38:28.561Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "AuthUserService.cs",
-              "DocumentMoniker": "C:\\AshanIntern\\EmployeeListing\\EmployeeListing.Service\\Repository\\AuthUserService.cs",
+              "DocumentMoniker": "C:\\Employee Listing\\Backend_.NET Core\\EmployeeListing\\EmployeeListing.Service\\Repository\\AuthUserService.cs",
               "RelativeDocumentMoniker": "EmployeeListing.Service\\Repository\\AuthUserService.cs",
-              "ToolTip": "C:\\AshanIntern\\EmployeeListing\\EmployeeListing.Service\\Repository\\AuthUserService.cs",
+              "ToolTip": "C:\\Employee Listing\\Backend_.NET Core\\EmployeeListing\\EmployeeListing.Service\\Repository\\AuthUserService.cs",
               "RelativeToolTip": "EmployeeListing.Service\\Repository\\AuthUserService.cs",
               "ViewState": "AQIAAGUAAAAAAAAAAAAqwG0AAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-11T07:08:51.05Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-11T07:08:51.05Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "EmpService.cs",
-              "DocumentMoniker": "C:\\AshanIntern\\EmployeeListing\\EmployeeListing.Service\\Repository\\EmpService.cs",
+              "DocumentMoniker": "C:\\Employee Listing\\Backend_.NET Core\\EmployeeListing\\EmployeeListing.Service\\Repository\\EmpService.cs",
               "RelativeDocumentMoniker": "EmployeeListing.Service\\Repository\\EmpService.cs",
-              "ToolTip": "C:\\AshanIntern\\EmployeeListing\\EmployeeListing.Service\\Repository\\EmpService.cs",
+              "ToolTip": "C:\\Employee Listing\\Backend_.NET Core\\EmployeeListing\\EmployeeListing.Service\\Repository\\EmpService.cs",
               "RelativeToolTip": "EmployeeListing.Service\\Repository\\EmpService.cs",
               "ViewState": "AQIAALUAAAAAAAAAAAAzwDIAAAA7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-12T08:51:33.457Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-12T08:51:33.457Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "AuthUserController.cs",
-              "DocumentMoniker": "C:\\AshanIntern\\EmployeeListing\\EmployeeListing\\Controllers\\AuthUserController.cs",
+              "DocumentMoniker": "C:\\Employee Listing\\Backend_.NET Core\\EmployeeListing\\EmployeeListing\\Controllers\\AuthUserController.cs",
               "RelativeDocumentMoniker": "EmployeeListing\\Controllers\\AuthUserController.cs",
-              "ToolTip": "C:\\AshanIntern\\EmployeeListing\\EmployeeListing\\Controllers\\AuthUserController.cs",
+              "ToolTip": "C:\\Employee Listing\\Backend_.NET Core\\EmployeeListing\\EmployeeListing\\Controllers\\AuthUserController.cs",
               "RelativeToolTip": "EmployeeListing\\Controllers\\AuthUserController.cs",
               "ViewState": "AQIAAAoAAAAAAAAAAAAswE8AAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-11T05:07:44.31Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-11T05:07:44.31Z"
             }
           ]
         }

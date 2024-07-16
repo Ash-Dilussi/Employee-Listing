@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\AshanIntern\\EmployeeListing\\EmployeeListing.DataAccess\\EmployeeListing.DataAccess.csproj": {}
+    "C:\\Employee Listing\\Backend_.NET Core\\EmployeeListing\\EmployeeListing.DataAccess\\EmployeeListing.DataAccess.csproj": {}
   },
   "projects": {
-    "C:\\AshanIntern\\EmployeeListing\\EmployeeListing.DataAccess\\EmployeeListing.DataAccess.csproj": {
+    "C:\\Employee Listing\\Backend_.NET Core\\EmployeeListing\\EmployeeListing.DataAccess\\EmployeeListing.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\AshanIntern\\EmployeeListing\\EmployeeListing.DataAccess\\EmployeeListing.DataAccess.csproj",
+        "projectUniqueName": "C:\\Employee Listing\\Backend_.NET Core\\EmployeeListing\\EmployeeListing.DataAccess\\EmployeeListing.DataAccess.csproj",
         "projectName": "EmployeeListing.DataAccess",
-        "projectPath": "C:\\AshanIntern\\EmployeeListing\\EmployeeListing.DataAccess\\EmployeeListing.DataAccess.csproj",
+        "projectPath": "C:\\Employee Listing\\Backend_.NET Core\\EmployeeListing\\EmployeeListing.DataAccess\\EmployeeListing.DataAccess.csproj",
         "packagesPath": "C:\\Users\\ashan.f\\.nuget\\packages\\",
-        "outputPath": "C:\\AshanIntern\\EmployeeListing\\EmployeeListing.DataAccess\\obj\\",
+        "outputPath": "C:\\Employee Listing\\Backend_.NET Core\\EmployeeListing\\EmployeeListing.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,8 +33,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\AshanIntern\\EmployeeListing\\EmployeeListing.Model\\EmployeeListing.Model.csproj": {
-                "projectPath": "C:\\AshanIntern\\EmployeeListing\\EmployeeListing.Model\\EmployeeListing.Model.csproj"
+              "C:\\Employee Listing\\Backend_.NET Core\\EmployeeListing\\EmployeeListing.Model\\EmployeeListing.Model.csproj": {
+                "projectPath": "C:\\Employee Listing\\Backend_.NET Core\\EmployeeListing\\EmployeeListing.Model\\EmployeeListing.Model.csproj"
               }
             }
           }
@@ -93,14 +93,14 @@
         }
       }
     },
-    "C:\\AshanIntern\\EmployeeListing\\EmployeeListing.Model\\EmployeeListing.Model.csproj": {
+    "C:\\Employee Listing\\Backend_.NET Core\\EmployeeListing\\EmployeeListing.Model\\EmployeeListing.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\AshanIntern\\EmployeeListing\\EmployeeListing.Model\\EmployeeListing.Model.csproj",
+        "projectUniqueName": "C:\\Employee Listing\\Backend_.NET Core\\EmployeeListing\\EmployeeListing.Model\\EmployeeListing.Model.csproj",
         "projectName": "EmployeeListing.Model",
-        "projectPath": "C:\\AshanIntern\\EmployeeListing\\EmployeeListing.Model\\EmployeeListing.Model.csproj",
+        "projectPath": "C:\\Employee Listing\\Backend_.NET Core\\EmployeeListing\\EmployeeListing.Model\\EmployeeListing.Model.csproj",
         "packagesPath": "C:\\Users\\ashan.f\\.nuget\\packages\\",
-        "outputPath": "C:\\AshanIntern\\EmployeeListing\\EmployeeListing.Model\\obj\\",
+        "outputPath": "C:\\Employee Listing\\Backend_.NET Core\\EmployeeListing\\EmployeeListing.Model\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

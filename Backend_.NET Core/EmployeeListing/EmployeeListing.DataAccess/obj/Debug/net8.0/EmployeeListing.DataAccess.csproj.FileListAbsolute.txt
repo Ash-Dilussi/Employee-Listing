@@ -32,3 +32,21 @@ C:\AshanIntern\EmployeeListing\EmployeeListing.DataAccess\obj\Debug\net8.0\refin
 C:\AshanIntern\EmployeeListing\EmployeeListing.DataAccess\obj\Debug\net8.0\EmployeeListing.DataAccess.pdb
 C:\AshanIntern\EmployeeListing\EmployeeListing.DataAccess\obj\Debug\net8.0\EmployeeListing.DataAccess.genruntimeconfig.cache
 C:\AshanIntern\EmployeeListing\EmployeeListing.DataAccess\obj\Debug\net8.0\ref\EmployeeListing.DataAccess.dll
+C:\Employee Listing\Backend_.NET Core\EmployeeListing\EmployeeListing.DataAccess\bin\Debug\net8.0\EmployeeListing.DataAccess.deps.json
+C:\Employee Listing\Backend_.NET Core\EmployeeListing\EmployeeListing.DataAccess\bin\Debug\net8.0\EmployeeListing.DataAccess.runtimeconfig.json
+C:\Employee Listing\Backend_.NET Core\EmployeeListing\EmployeeListing.DataAccess\bin\Debug\net8.0\EmployeeListing.DataAccess.dll
+C:\Employee Listing\Backend_.NET Core\EmployeeListing\EmployeeListing.DataAccess\bin\Debug\net8.0\EmployeeListing.DataAccess.pdb
+C:\Employee Listing\Backend_.NET Core\EmployeeListing\EmployeeListing.DataAccess\bin\Debug\net8.0\EmployeeListing.Model.dll
+C:\Employee Listing\Backend_.NET Core\EmployeeListing\EmployeeListing.DataAccess\bin\Debug\net8.0\EmployeeListing.Model.pdb
+C:\Employee Listing\Backend_.NET Core\EmployeeListing\EmployeeListing.DataAccess\obj\Debug\net8.0\EmployeeListing.DataAccess.csproj.AssemblyReference.cache
+C:\Employee Listing\Backend_.NET Core\EmployeeListing\EmployeeListing.DataAccess\obj\Debug\net8.0\EmployeeListing.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Employee Listing\Backend_.NET Core\EmployeeListing\EmployeeListing.DataAccess\obj\Debug\net8.0\EmployeeListing.DataAccess.AssemblyInfoInputs.cache
+C:\Employee Listing\Backend_.NET Core\EmployeeListing\EmployeeListing.DataAccess\obj\Debug\net8.0\EmployeeListing.DataAccess.AssemblyInfo.cs
+C:\Employee Listing\Backend_.NET Core\EmployeeListing\EmployeeListing.DataAccess\obj\Debug\net8.0\EmployeeListing.DataAccess.csproj.CoreCompileInputs.cache
+C:\Employee Listing\Backend_.NET Core\EmployeeListing\EmployeeListing.DataAccess\obj\Debug\net8.0\EmployeeListing.DataAccess.sourcelink.json
+C:\Employee Listing\Backend_.NET Core\EmployeeListing\EmployeeListing.DataAccess\obj\Debug\net8.0\Employee.DC629E4A.Up2Date
+C:\Employee Listing\Backend_.NET Core\EmployeeListing\EmployeeListing.DataAccess\obj\Debug\net8.0\EmployeeListing.DataAccess.dll
+C:\Employee Listing\Backend_.NET Core\EmployeeListing\EmployeeListing.DataAccess\obj\Debug\net8.0\refint\EmployeeListing.DataAccess.dll
+C:\Employee Listing\Backend_.NET Core\EmployeeListing\EmployeeListing.DataAccess\obj\Debug\net8.0\EmployeeListing.DataAccess.pdb
+C:\Employee Listing\Backend_.NET Core\EmployeeListing\EmployeeListing.DataAccess\obj\Debug\net8.0\EmployeeListing.DataAccess.genruntimeconfig.cache
+C:\Employee Listing\Backend_.NET Core\EmployeeListing\EmployeeListing.DataAccess\obj\Debug\net8.0\ref\EmployeeListing.DataAccess.dll

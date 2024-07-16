@@ -24,3 +24,17 @@ C:\AshanIntern\EmployeeListing\EmployeeListing.Model\obj\Debug\net8.0\refint\Emp
 C:\AshanIntern\EmployeeListing\EmployeeListing.Model\obj\Debug\net8.0\EmployeeListing.Model.pdb
 C:\AshanIntern\EmployeeListing\EmployeeListing.Model\obj\Debug\net8.0\EmployeeListing.Model.genruntimeconfig.cache
 C:\AshanIntern\EmployeeListing\EmployeeListing.Model\obj\Debug\net8.0\ref\EmployeeListing.Model.dll
+C:\Employee Listing\Backend_.NET Core\EmployeeListing\EmployeeListing.Model\bin\Debug\net8.0\EmployeeListing.Model.deps.json
+C:\Employee Listing\Backend_.NET Core\EmployeeListing\EmployeeListing.Model\bin\Debug\net8.0\EmployeeListing.Model.runtimeconfig.json
+C:\Employee Listing\Backend_.NET Core\EmployeeListing\EmployeeListing.Model\bin\Debug\net8.0\EmployeeListing.Model.dll
+C:\Employee Listing\Backend_.NET Core\EmployeeListing\EmployeeListing.Model\bin\Debug\net8.0\EmployeeListing.Model.pdb
+C:\Employee Listing\Backend_.NET Core\EmployeeListing\EmployeeListing.Model\obj\Debug\net8.0\EmployeeListing.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Employee Listing\Backend_.NET Core\EmployeeListing\EmployeeListing.Model\obj\Debug\net8.0\EmployeeListing.Model.AssemblyInfoInputs.cache
+C:\Employee Listing\Backend_.NET Core\EmployeeListing\EmployeeListing.Model\obj\Debug\net8.0\EmployeeListing.Model.AssemblyInfo.cs
+C:\Employee Listing\Backend_.NET Core\EmployeeListing\EmployeeListing.Model\obj\Debug\net8.0\EmployeeListing.Model.csproj.CoreCompileInputs.cache
+C:\Employee Listing\Backend_.NET Core\EmployeeListing\EmployeeListing.Model\obj\Debug\net8.0\EmployeeListing.Model.sourcelink.json
+C:\Employee Listing\Backend_.NET Core\EmployeeListing\EmployeeListing.Model\obj\Debug\net8.0\EmployeeListing.Model.dll
+C:\Employee Listing\Backend_.NET Core\EmployeeListing\EmployeeListing.Model\obj\Debug\net8.0\refint\EmployeeListing.Model.dll
+C:\Employee Listing\Backend_.NET Core\EmployeeListing\EmployeeListing.Model\obj\Debug\net8.0\EmployeeListing.Model.pdb
+C:\Employee Listing\Backend_.NET Core\EmployeeListing\EmployeeListing.Model\obj\Debug\net8.0\EmployeeListing.Model.genruntimeconfig.cache
+C:\Employee Listing\Backend_.NET Core\EmployeeListing\EmployeeListing.Model\obj\Debug\net8.0\ref\EmployeeListing.Model.dll
