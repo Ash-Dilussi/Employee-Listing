@@ -76,8 +76,8 @@ console.log("Reg button pressed");
   );
 }
 
-goin (newuser : AuthUserDTO){
-  
+goin (){
+  this.router.navigateByUrl('./layouts/sidebar/sidebar.component');
 }
 
   
