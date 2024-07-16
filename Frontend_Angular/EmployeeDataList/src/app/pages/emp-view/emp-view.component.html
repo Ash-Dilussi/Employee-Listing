@@ -1,0 +1,111 @@
+<html>
+  <body>
+    <div  class = "parent">
+      
+      <div style="margin-bottom: 20px"></div>
+
+      <button mat-fab extended (click)="getemployeelist()">
+        <mat-icon>menu</mat-icon>
+        View Employee List
+      </button>
+
+      <div style="margin-bottom: 20px"></div>
+     
+    <div>
+      <table mat-table class="mat-elevation-z8" [dataSource]="Empdata">
+        <!-- Column definitions -->
+        <ng-container matColumnDef="autoId">
+          <th mat-header-cell *matHeaderCellDef>AutoID</th>
+          <td mat-cell *matCellDef="let emp">{{ emp.autoId }}</td>
+        </ng-container>
+
+        <ng-container matColumnDef="empId">
+          <th mat-header-cell *matHeaderCellDef>Employee ID</th>
+          <td mat-cell *matCellDef="let emp">{{ emp.empId }}</td>
+        </ng-container>
+
+        <ng-container matColumnDef="firstName">
+          <th mat-header-cell *matHeaderCellDef>First Name</th>
+          <td mat-cell *matCellDef="let emp">{{ emp.firstName }}</td>
+        </ng-container>
+
+        <ng-container matColumnDef="lastName">
+          <th mat-header-cell *matHeaderCellDef>Last Name</th>
+          <td mat-cell *matCellDef="let emp">{{ emp.lastName }}</td>
+        </ng-container>
+
+        <ng-container matColumnDef="nic">
+          <th mat-header-cell *matHeaderCellDef>NIC Number</th>
+          <td mat-cell *matCellDef="let emp">{{ emp.nic }}</td>
+        </ng-container>
+
+        <ng-container matColumnDef="dob">
+          <th mat-header-cell *matHeaderCellDef>Date of Birth</th>
+          <td mat-cell *matCellDef="let emp">{{ emp.dob }}</td>
+        </ng-container>
+
+        <ng-container matColumnDef="gender">
+          <th mat-header-cell *matHeaderCellDef>Gender</th>
+          <td mat-cell *matCellDef="let emp">{{ emp.gender }}</td>
+        </ng-container>
+
+        <ng-container matColumnDef="remove">
+          <th mat-header-cell *matHeaderCellDef>Remove</th>
+          <td mat-cell *matCellDef="let emp">
+            <button
+              mat-icon-button
+              aria-label="Delete"
+              (click)="deleteEmp(emp.empId)"
+            >
+              <mat-icon>delete</mat-icon>
+            </button>
+          </td>
+        </ng-container>
+
+        <!--Display declare order of Headers in header row. Adjusted in the ts file array varibale -->
+        <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
+
+        <!-- Display Data rows -->
+        <tr mat-row *matRowDef="let row; columns: displayedColumns"></tr>
+      </table>
+    </div>
+  </div>
+  </body>
+  &nbsp;
+  <button mat-stroked-button style="background-color: aqua;" (click)="previousPage()"> < </button>
+  &nbsp;
+  <button mat-stroked-button  style="background-color: aqua;" (click)=" nextPage()"> > </button>
+</html>
+
+<!-- <table mat-table  class="mat-elevation-z8">
+    <thead mat-header-row  >
+        <tr  mat-header-row >
+    <th mat-header-cell >AutoID</th>
+    <th mat-header-cell >Employee ID</th>
+    <th mat-header-cell >First Name</th>
+    <th mat-header-cell >Last Name</th>
+    <th mat-header-cell >NIC Number</th>
+    <th mat-header-cell >Date of Birth</th>
+    <th mat-header-cell >Gender</th>
+    <th mat-header-cell >Remove</th>
+</tr>
+</thead>
+
+<tbody>
+    <tr mat-row *ngFor="let emp of Empdata"  >
+        <td mat-cell>{{emp.autoId}}</td>
+        <td mat-cell>{{emp.empId}}</td>
+        <td mat-cell>{{emp.firstName}}</td>
+        <td mat-cell>{{emp.lastName}}</td>
+        <td mat-cell>{{emp.nic}}</td>
+        <td mat-cell>{{emp.dob}}</td>
+        <td mat-cell>{{emp.gender}}</td>
+        <td mat-cell> 
+            <button mat-fab aria-label="Example icon button with a delete icon" (click)="deleteEmp(emp.empId)">
+                <mat-icon>delete</mat-icon>
+            </button>
+       </td>
+    </tr>
+</tbody>
+
+</table> -->

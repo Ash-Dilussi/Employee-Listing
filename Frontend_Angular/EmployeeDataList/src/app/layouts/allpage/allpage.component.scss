@@ -1,0 +1,26 @@
+.container{
+    display: flex;
+    height: 100vh;
+  //  flex-direction: column;
+}
+
+
+.content {
+   flex: 1; /* Take remaining vertical space */
+  //  padding: 20px;
+  }
+
+  .container{
+    position: relative;
+    display: flex;
+    
+  }
+
+
+  .router-outlet-container {
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+   height: 100vh;
+
+  }
